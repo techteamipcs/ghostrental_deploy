@@ -1,2 +1,0 @@
-# ghostrental_deploy
-ghostrental_deploy
